@@ -1,0 +1,21 @@
+div {
+    border: 1px solid black;
+    color: green;
+}
+
+a {
+    color: red;
+}
+
+.bio-box a {
+    color: green;
+}
+
+li {
+    border: 1px solid black ;
+    color: blue;
+}
+
+#exec-bio {
+    background-color: lightgray;
+}
